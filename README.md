@@ -1,6 +1,6 @@
 # HTML & CSS
 
-![image](![Alt text](<HTML-CSS/images/Skjermbilde 2024-12-02 kl. 16.08.56.png>))
+![image](https://github.com/Mariengs/HTMLCSS/blob/main/images/Skjermbilde%202024-12-02%20kl.%2016.08.56.png)
 
 ## Description
 
