@@ -1,6 +1,8 @@
 # HTML & CSS
 
-![image](https://github.com/Mariengs/HTMLCSS/blob/main/images/Skjermbilde%202024-12-02%20kl.%2016.08.56.png)
+<img src="https://github.com/Mariengs/HTMLCSS/blob/main/images/Skjermbilde%202024-12-02%20kl.%2016.08.56.png" alt="Portfolio image" width="200" />
+
+
 
 ## Description
 
